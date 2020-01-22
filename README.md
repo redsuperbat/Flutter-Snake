@@ -4,4 +4,4 @@ Flutter mobile app that coarsely implements the classical game snake. This proje
 
 ## Screenshot
 
-![Alt text](https://i.imgur.com/fNX5bgQ.jpg "This is my picture")
+![Alt text](https://i.imgur.com/fNX5bgQ.jpg = 250x250 "This is my picture")
